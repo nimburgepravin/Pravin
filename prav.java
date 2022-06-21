@@ -6,6 +6,7 @@ public class prav {
 
 
 		System.out.println("my name is pravin");
+		System.out.println("hello");
 		
 	}
 
